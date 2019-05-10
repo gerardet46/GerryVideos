@@ -1,0 +1,10 @@
+﻿lbnombre=Nom
+lbedad=Edat
+btnfinaliza=Fet
+opcionesToolStripMenuItem=Opcions
+idiomaToolStripMenuItem=Llenguatge
+cerrarProgramaToolStripMenuItem=Surt del programa
+irAlOtroFormularioToolStripMenuItem=Vés a l'altre formulari
+label1=Bones
+titulo=Canvi d'idioma
+titulo2=Salutació

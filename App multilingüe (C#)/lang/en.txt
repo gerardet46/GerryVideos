@@ -1,0 +1,10 @@
+lbnombre=Name
+lbedad=Years
+btnfinaliza=OK
+opcionesToolStripMenuItem=Options
+idiomaToolStripMenuItem=Lenguage
+cerrarProgramaToolStripMenuItem=Exit
+irAlOtroFormularioToolStripMenuItem=Go to the other form
+label1=Hello
+titulo=Change of language
+titulo2=Say hello

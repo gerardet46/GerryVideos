@@ -1,0 +1,10 @@
+﻿lbnombre=Nombre
+lbedad=Edad
+btnfinaliza=Hecho
+opcionesToolStripMenuItem=Opciones
+idiomaToolStripMenuItem=Lengua
+cerrarProgramaToolStripMenuItem=Cerrar programa
+irAlOtroFormularioToolStripMenuItem=Ir al otro formulario
+label1=Hola
+titulo=Cambio de idioma
+titulo2=Saluda
