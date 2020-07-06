@@ -10,8 +10,9 @@ int main() {
 		string nuevo = SHA256::cifrar(msg);
 		cout << "\nHash resultante: " << nuevo;
 
-		_getch();
-		system("cls");
+		// _getch();
+		// system("cls");
+		cout << "\n";
 	}
 	return 0;
 }
