@@ -1,0 +1,10 @@
+C:\Users\gerry\source\repos\tutos\uninstall\bin\Debug\uninstall.exe.config
+C:\Users\gerry\source\repos\tutos\uninstall\bin\Debug\uninstall.exe
+C:\Users\gerry\source\repos\tutos\uninstall\bin\Debug\uninstall.pdb
+C:\Users\gerry\source\repos\tutos\uninstall\obj\Debug\uninstall.csprojAssemblyReference.cache
+C:\Users\gerry\source\repos\tutos\uninstall\obj\Debug\uninstall.frmuninstall.resources
+C:\Users\gerry\source\repos\tutos\uninstall\obj\Debug\uninstall.Properties.Resources.resources
+C:\Users\gerry\source\repos\tutos\uninstall\obj\Debug\uninstall.csproj.GenerateResource.cache
+C:\Users\gerry\source\repos\tutos\uninstall\obj\Debug\uninstall.csproj.CoreCompileInputs.cache
+C:\Users\gerry\source\repos\tutos\uninstall\obj\Debug\uninstall.exe
+C:\Users\gerry\source\repos\tutos\uninstall\obj\Debug\uninstall.pdb

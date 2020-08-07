@@ -1,0 +1,12 @@
+C:\Users\gerry\source\repos\tutos\instalador\bin\Debug\instalador.exe.config
+C:\Users\gerry\source\repos\tutos\instalador\bin\Debug\instalador.exe
+C:\Users\gerry\source\repos\tutos\instalador\bin\Debug\instalador.pdb
+C:\Users\gerry\source\repos\tutos\instalador\obj\Debug\instalador.csprojAssemblyReference.cache
+C:\Users\gerry\source\repos\tutos\instalador\obj\Debug\instalador.Properties.Resources.resources
+C:\Users\gerry\source\repos\tutos\instalador\obj\Debug\instalador.csproj.GenerateResource.cache
+C:\Users\gerry\source\repos\tutos\instalador\obj\Debug\instalador.csproj.CoreCompileInputs.cache
+C:\Users\gerry\source\repos\tutos\instalador\obj\Debug\instalador.exe
+C:\Users\gerry\source\repos\tutos\instalador\obj\Debug\instalador.pdb
+C:\Users\gerry\source\repos\tutos\instalador\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\gerry\source\repos\tutos\instalador\obj\Debug\instalador.csproj.ResolveComReference.cache
+C:\Users\gerry\source\repos\tutos\instalador\obj\Debug\instalador.frminstalador.resources
