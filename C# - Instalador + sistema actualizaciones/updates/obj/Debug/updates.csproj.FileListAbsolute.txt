@@ -1,0 +1,7 @@
+C:\Users\gerry\source\repos\tutos\updates\bin\Debug\updates.exe.config
+C:\Users\gerry\source\repos\tutos\updates\bin\Debug\updates.exe
+C:\Users\gerry\source\repos\tutos\updates\bin\Debug\updates.pdb
+C:\Users\gerry\source\repos\tutos\updates\obj\Debug\updates.csproj.CoreCompileInputs.cache
+C:\Users\gerry\source\repos\tutos\updates\obj\Debug\updates.exe
+C:\Users\gerry\source\repos\tutos\updates\obj\Debug\updates.pdb
+C:\Users\gerry\source\repos\tutos\updates\obj\Debug\updates.csprojAssemblyReference.cache

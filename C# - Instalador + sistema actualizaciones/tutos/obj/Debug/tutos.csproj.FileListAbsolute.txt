@@ -1,0 +1,11 @@
+C:\Users\gerry\source\repos\tutos\tutos\obj\Debug\tutos.csprojAssemblyReference.cache
+C:\Users\gerry\source\repos\tutos\tutos\obj\Debug\tutos.Form1.resources
+C:\Users\gerry\source\repos\tutos\tutos\obj\Debug\tutos.csproj.GenerateResource.cache
+C:\Users\gerry\source\repos\tutos\tutos\obj\Debug\tutos.csproj.CoreCompileInputs.cache
+C:\Users\gerry\source\repos\tutos\tutos\bin\Debug\msgapp.exe.config
+C:\Users\gerry\source\repos\tutos\tutos\bin\Debug\msgapp.exe
+C:\Users\gerry\source\repos\tutos\tutos\bin\Debug\msgapp.pdb
+C:\Users\gerry\source\repos\tutos\tutos\obj\Debug\msgapp.Properties.Resources.resources
+C:\Users\gerry\source\repos\tutos\tutos\obj\Debug\msgapp.exe
+C:\Users\gerry\source\repos\tutos\tutos\obj\Debug\msgapp.pdb
+C:\Users\gerry\source\repos\tutos\tutos\obj\Debug\msgapp.update.resources
