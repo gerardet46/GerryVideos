@@ -1,6 +1,6 @@
 #include "base64.h"
 
-int bas64() {
+int main() {
 	string msg;
 	int clave;
 
@@ -8,8 +8,9 @@ int bas64() {
 		cout << "Selecciona:\n1 => Encriptar\n2 => Desencriptar";
 
 		char opt;
-		do opt = _getch(); while (opt != '1' && opt != '2');
-		system("cls");
+		do {
+            cin >> opt;
+        } while (opt != '1' && opt != '2');
 
 		cout << "Escribe el mensaje:\n";
 		cin >> ws;
@@ -25,8 +26,6 @@ int bas64() {
 			auto nuevo = base64::Descifrar(msg);
 			cout << "\nMensaje descifrado: " << nuevo;
 		}
-		_getch();
-		system("cls");
 	}
 	return 0;
 }

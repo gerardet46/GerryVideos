@@ -2,7 +2,6 @@
 
 #include <iostream>
 #include <stdio.h>
-#include <conio.h>
 #include <string>
 #include <math.h>
 
