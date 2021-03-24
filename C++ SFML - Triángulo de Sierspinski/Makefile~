@@ -1,0 +1,10 @@
+CC := g++
+LIBS := -lsfml-graphics -lsfml-window -lsfml-system
+TARGETS := compile run
+
+all:
+g++ -o main main.cpp $(LIBS)
+
+run:
+g++ -o main main.cpp $(LIBS)
+./main
