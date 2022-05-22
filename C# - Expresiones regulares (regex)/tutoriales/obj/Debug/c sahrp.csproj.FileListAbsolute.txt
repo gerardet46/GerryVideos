@@ -1,0 +1,9 @@
+c:\users\gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\bin\Debug\c sahrp.exe.config
+c:\users\gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\bin\Debug\c sahrp.exe
+c:\users\gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\bin\Debug\c sahrp.pdb
+c:\users\gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\obj\Debug\c sahrp.csprojResolveAssemblyReference.cache
+c:\users\gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\obj\Debug\c_sahrp.Form1.resources
+c:\users\gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\obj\Debug\c_sahrp.Properties.Resources.resources
+c:\users\gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\obj\Debug\c sahrp.csproj.GenerateResource.Cache
+c:\users\gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\obj\Debug\c sahrp.exe
+c:\users\gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\obj\Debug\c sahrp.pdb

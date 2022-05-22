@@ -1,0 +1,10 @@
+C:\Users\Gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\bin\Debug\Copiar y mover.exe.config
+C:\Users\Gepar\Documents\visual studio 2013\Projects\Copiar y Mover\c sahrp\bin\Debug\Copiar y mover.exe.config
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\c sahrp\bin\Debug\Copiar y mover.exe
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\c sahrp\bin\Debug\Copiar y mover.pdb
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.csprojResolveAssemblyReference.cache
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\c sahrp\obj\Debug\c_sahrp.Form1.resources
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\c sahrp\obj\Debug\Copiar_Mover.Properties.Resources.resources
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.csproj.GenerateResource.Cache
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.exe
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.pdb

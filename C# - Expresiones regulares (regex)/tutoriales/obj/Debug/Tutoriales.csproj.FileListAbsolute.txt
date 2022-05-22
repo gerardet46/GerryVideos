@@ -1,0 +1,16 @@
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\tutoriales.exe.config
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\Tutoriales.csproj.ResolveComReference.cache
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\tutoriales.exe
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\tutoriales.pdb
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\tutoriales.exe
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\tutoriales.pdb
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\Tutoriales.csprojResolveAssemblyReference.cache
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\c_sahrp.frmprincipal.resources
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\c_sahrp.Properties.Resources.resources
+C:\Users\Gepar\Documents\Visual Studio 2015\Projects\Tutoriales\tutoriales\obj\Debug\Tutoriales.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\bin\Debug\Imprimir ListBox.exe.config
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\obj\Debug\Enviar correo.csproj.ResolveComReference.cache
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\obj\Debug\Imprimir ListBox.exe
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\obj\Debug\Imprimir ListBox.pdb
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\bin\Debug\Imprimir ListBox.exe
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\bin\Debug\Imprimir ListBox.pdb
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\bin\Debug\Spire.License.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\bin\Debug\Spire.Pdf.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\obj\Debug\Enviar correo.csprojResolveAssemblyReference.cache
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\obj\Debug\c_sahrp.Properties.Resources.resources
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\obj\Debug\Enviar correo.csproj.GenerateResource.Cache
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\obj\Debug\c_sahrp.frmvideo.resources
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gepar\Documents\Visual Studio 2013\Projects\Copiar y Mover\enviar correo\obj\Debug\AxInterop.AcroPDFLib.dll
